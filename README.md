@@ -51,6 +51,15 @@ This project demonstrates how Python can be used for data cleaning, exploratory 
 - Create an interactive dashboard using Power BI or Tableau.
 - Analyze larger and more recent datasets.
 
+## Skills Demonstrated
+- Python programming
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Data visualization using Matplotlib
+- Pandas and NumPy
+- Handling missing values and duplicate data
+- Extracting insights from real-world datasets
+
 ## Author
 **Harshita Singh**
 
